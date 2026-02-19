@@ -1,7 +1,7 @@
 # Crossword Forge – Puzzle Creation Tool
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/37997/l/phpllvfgt-logo.png?v=1718774841" width="200" alt="Crossword Forge icon"/>
+  <img src="https://sc.filehippo.net/images/t_app-icon-l/p/bc753822-9b31-11e6-a9dd-00163ed833e7/1053772267/crossword-forge-logo" width="200" alt="Crossword Forge icon"/>
 </p>
 
 <p align="center">
